@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "autobinger"
+version = "0.1.0"
+description = "This package contains code to automatically perform Bing searches for MS points."
+authors = ["ch11nv11n <joedejesus91@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
