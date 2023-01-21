@@ -1,0 +1,7 @@
+os
+dotenv
+requests
+glob
+zipfile
+time
+BeautifulSoup
