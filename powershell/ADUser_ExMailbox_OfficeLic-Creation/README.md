@@ -1,1 +1,0 @@
-Added a personal PowerShell script that automates the process of creating Active Directory users, Exchange mailboxes, and managing Office licenses. This script streamlined the user provisioning process and improved efficiency for my team.
